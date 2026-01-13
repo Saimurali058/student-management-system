@@ -1,7 +1,6 @@
-# student-management-system
+# Student Management System
 Student Management System backend built using Spring Boot, JPA, MySQL, and Swagger
 
-# Student Management System
 
 A backend Student Management System built using Spring Boot to manage student records efficiently with REST APIs.
 
